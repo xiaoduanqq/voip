@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://app.ixincall.com/ipa_image.png</string>
+<string>http://www.ixincall.com/ipa_image.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,7 +33,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.tsxr.IXin</string>
+<string>net.tsxr.KLTX</string>
 <key>bundle-version</key>
 <string>13.09.22.26</string>
 <key>kind</key>
